@@ -13,7 +13,6 @@ Text analytics project analyzing 23,486 women's clothing reviews to uncover cust
 ```bash
 git clone https://github.com/vinuvii/Womens-Clothing-Reviews-Analysis.git
 cd womens-clothing-reviews-analysis
-pip install -r requirements.txt
 ```
 
 ## 💻 Usage
